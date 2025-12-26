@@ -47,17 +47,21 @@
 
 <div align="center">
   
-  <a href="https://github.com/chandra122">
-    <img src="https://img.shields.io/github/followers/chandra122?style=for-the-badge&logo=github&color=blueviolet&labelColor=black" alt="GitHub Followers" />
+  <a href="https://github.com/chandra122?tab=followers">
+    <img src="https://img.shields.io/github/followers/chandra122?style=for-the-badge&logo=github&color=blueviolet&labelColor=000000" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/chandra122?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Check%20them%20out-blue?style=for-the-badge&logo=github&labelColor=black" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-32-blue?style=for-the-badge&logo=github&labelColor=000000" alt="Repositories" />
   </a>
   
   <br/><br/>
   
-  <img src="https://img.shields.io/github/stars/chandra122?style=for-the-badge&logo=github&color=yellow&labelColor=black" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/chandra122?style=for-the-badge&logo=github&color=green&labelColor=black" alt="GitHub Forks" />
+  <a href="https://github.com/chandra122?tab=stars">
+    <img src="https://img.shields.io/github/stars/chandra122?style=for-the-badge&logo=github&color=yellow&labelColor=000000" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/chandra122?tab=following">
+    <img src="https://img.shields.io/badge/Following-5-blue?style=for-the-badge&logo=github&labelColor=000000" alt="Following" />
+  </a>
   
 </div>
 
