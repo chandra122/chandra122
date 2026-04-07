@@ -73,6 +73,18 @@
 
 ### 💻 Featured Projects
 
+#### 🤖 [Orion AI Agent](https://github.com/chandra122/OrionAiAgent)
+**Description:** A production-grade agentic AI built entirely from scratch on the raw Anthropic SDK — no LangChain, no Agent SDK. Implements a manual tool-use loop where Claude thinks, acts, observes tool results, and loops until the task is complete. Features intelligent model routing (haiku/sonnet/opus), 3-layer safety guardrails, SSE streaming UI, and Playwright-powered job auto-apply on Greenhouse and Lever ATS platforms.
+
+- **Tech Stack:** Python, FastAPI, Anthropic Claude API, Playwright, DuckDuckGo Search, APScheduler, Server-Sent Events
+- **Features:** 
+  - Manual agentic loop with up to 50 tool-use iterations per request
+  - 13 tools: web search, Python execution, file I/O, scheduling, job search, and auto-apply
+  - Rules-based model routing — routes each request to haiku, sonnet, or opus in under 1ms
+  - 3-layer guardrails: jailbreak detection, tool call sandboxing, and output secret scanning
+  - Playwright job auto-apply — fills Greenhouse and Lever forms live in a real browser window
+  - Dark-theme streaming web UI with voice input and per-response model tier badges
+
 #### 🚀 [Communicare](https://github.com/chandra122/communicare)
 **Description:** An ML-powered system for real-time sign language recognition and fall detection. Features MediaPipe Holistic for gesture detection, YOLOv8-pose for human pose estimation, and LSTM networks for temporal sequence classification. Includes data collection tools, Colab training notebooks, and real-time detection with email notifications.
 
